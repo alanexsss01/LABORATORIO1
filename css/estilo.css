@@ -1,0 +1,67 @@
+*{
+    margin: 30px;
+}
+/*width: 350px;
+height: 150px;*/
+#uno{
+    background-color: rgb(221, 45, 89);
+    width: 700px;
+    height: 1500px;
+    padding: 25px;
+    margin: 20px;
+}
+#dos{
+    background-color: rgb(2, 2, 2);
+    width: 600px;
+    height: 600px;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 150%;
+}
+
+#tres{
+    background-color: rgb(148, 199, 53);
+    width: 500px;
+    height: 500px;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 150%;
+}
+
+#cuatro{
+    background-color: rgb(102, 24, 165);
+    width: 400px;
+    height: 400px;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 150%;
+}
+
+#cinco{
+    background-color: rgb(58, 179, 94);
+    width: 300px;
+    height: 300px;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 150%;
+}
+
+#seis{
+    background-color: rgb(123, 187, 166);
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 150%;
+}
+#siete{
+    background-color: rgb(233, 227, 227);
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 150%;
+}
+
+
+
